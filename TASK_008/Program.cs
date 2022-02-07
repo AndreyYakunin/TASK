@@ -1,4 +1,4 @@
-﻿// 7. Показать числа от 1 до N
+﻿// 8. Показать числа от -N до N
 Console.Clear();
 System.Console.Write("Введите число:   ");
 string writeNumber = Console.ReadLine();
